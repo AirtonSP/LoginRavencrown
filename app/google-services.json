@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24732069647",
+    "project_id": "ravencrown-13731",
+    "storage_bucket": "ravencrown-13731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24732069647:android:2b406eedeb8171c36cd87a",
+        "android_client_info": {
+          "package_name": "com.example.loginravencrown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5-vO9hPJFahmDqISrbcFWO2t09v_I6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
